@@ -43,3 +43,17 @@ $ npm install
 ```
 $ npm start
 ```
+
+### 5. Run `Client Python`.
+
+```
+$ cd python
+```
+
+```
+$ pip install -r requirements.txt
+```
+
+```
+$ python3 main.py
+```
