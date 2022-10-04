@@ -1,0 +1,13 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "extension": "js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mqtt": "^4.3.7"
+  }
+}
